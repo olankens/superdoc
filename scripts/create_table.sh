@@ -3,15 +3,15 @@
 DIR="$(cd "$(dirname "$0")" && pwd)"
 SRC="$DIR/../source"
 RME="$DIR/../README.md"
-MAX=6
+MAX=5
 
 # Create table
 out="<!-- START_TABLE -->\n<table>\n" && i=0
-for f in "$SRC"/*/assets/icon.svg; do
+for f in "$SRC"/*/.assets/icon.svg; do
   [ -f "$f" ] || continue
   folder="$(basename "$(dirname "$(dirname "$f")")")"
   [ $((i % MAX)) -eq 0 ] && out+="  <tbody><tr>\n"
-  out+="    <td align=\"center\" width=\"99999\"><a href=\"source/$folder\"><img src=\"source/$folder/assets/icon.svg\" align=\"center\" width=\"56\"></a></td>\n"
+  out+="    <td align=\"center\" width=\"99999\"><a href=\"source/$folder\"><img src=\"source/$folder/.assets/icon.svg\" align=\"center\" width=\"56\"></a></td>\n"
   i=$((i + 1))
   [ $((i % MAX)) -eq 0 ] && out+="  </tr></tbody>\n"
 done
