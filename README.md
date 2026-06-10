@@ -9,7 +9,7 @@
 </p></td></tr></table>
 
 <table><tr><td align="center" width="99999">&nbsp;<p>
-  Curate and maintain personal notes, documentation, and references covering programming, tools, algorithms, system design, and software engineering practices for quick lookup, learning, and technical growth.
+  Maintain personal notes, documentation, and references across programming, tools, algorithms, system design, and software engineering practices, enabling quick lookup, active learning, and consistent technical growth across different subjects.
 </p>&nbsp;</td></tr></table>
 
 ### FEATURES
