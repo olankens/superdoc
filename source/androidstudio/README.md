@@ -1,5 +1,5 @@
 <table align="center"><tr></tr><tr><td>
-  <img src="assets/icon.svg" align="center" width="96">
+  <img src=".assets/icon.svg" align="center" width="96">
 </td></tr></table>
 
 <h1 align="center">ANDROID STUDIO</h1>
@@ -12,7 +12,9 @@
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper turpis ipsum, at vulputate lacus congue pulvinar. In et convallis nunc, eget tempor orci. Nullam et viverra eros. In scelerisque aenean.
 </p>&nbsp;</td></tr></table>
 
-### Keyboard Shortcuts
+### LEARNING
+
+#### Keyboard Shortcuts
 
 <table>
   <tr align="left">
