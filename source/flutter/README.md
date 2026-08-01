@@ -22,3 +22,10 @@ flutter create --template=package deleteme
 cd deleteme
 flutter create example
 ```
+
+### RESTORE METADATA FILE
+
+```sh
+flutter pub get
+flutter create .
+```
