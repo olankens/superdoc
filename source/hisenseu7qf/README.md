@@ -34,6 +34,7 @@
 1. Reveal the **CHANGE_ME** submenu
 1. Select the **reset to the factory settings** button
 
+<hr>
 
 ### PICTURE SETTINGS
 
@@ -102,6 +103,7 @@
 - Gamma Adjustment: **2.2**
 - Viewing Angle: **On**
 
+<hr>
 
 ### RESOURCE LINKS
 
