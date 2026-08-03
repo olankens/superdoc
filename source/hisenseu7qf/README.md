@@ -6,7 +6,7 @@
 
 <table>
   <tbody><tr><td align="center" width="99999"><div>
-    <a href="#">WEBSITE</a>
+    <a href="https://qrcode.hisense.com/appliance/0000000000200028740000000000000000000?lang=en">PRODUCT</a>
   </div></td></tr></tbody>
   <tbody><tr><td align="center" width="99999">&nbsp;<div>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper turpis ipsum, at vulputate lacus congue pulvinar. In et convallis nunc, eget tempor orci. Nullam et viverra eros. In scelerisque aenean.
