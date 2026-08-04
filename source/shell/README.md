@@ -20,3 +20,17 @@
 ```sh
 pngquant --force --output icon.png icon.png
 ```
+
+### VERIFY MD5 HASH
+
+#### DEFAULT VERIFICATION
+
+```shß
+md5sum -c usb_MICALIDVB6886_U4.md5
+```
+
+#### WINDOWS (CRLF) VERIFICATION
+
+```sh
+tr -d '\r' < usb_MICALIDVB6886_U4.md5 | md5sum -c -
+```
