@@ -28,12 +28,6 @@
 
 - [ADDONS4KODI](https://www.reddit.com/r/Addons4Kodi/new/)
 
-### ALKOFLIX SETTINGS PATH
-
-```sh
-"$HOME/Library/Application Support/Kodi/userdata/addon_data/plugin.video.alkoflix/settings.xml"
-```
-
 ### ALKOFLIX SETTINGS ENTRIES
 
 ```xml
@@ -43,4 +37,13 @@
 	<setting id="ad.token">TOKEN_HERE</setting>
 	<setting id="ad.enabled">true</setting>
 </settings>
+```
+
+### MISCELLANEOUS SETTINGS PATHS
+
+#### FOR MACOS
+
+```
+"$HOME/Library/Application Support/Kodi/userdata/guisettings.xml"
+"$HOME/Library/Application Support/Kodi/userdata/addon_data/plugin.video.alkoflix/settings.xml"
 ```
