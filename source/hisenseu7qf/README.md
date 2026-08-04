@@ -28,10 +28,10 @@
 
 1. Ensure all USB ports from the TV are free
 1. Ensure you plugged the USB drive correctly
-1. Reveal the **CHANGE_ME** submenu
-1. Select the **CHANGE_ME** button
+1. Reveal the **support/system update/upgrade from usb** submenu
+1. Select the **reboot** button
 1. Ensure the device has rebooted
-1. Reveal the **CHANGE_ME** submenu
+1. Reveal the **support** submenu
 1. Select the **reset to the factory settings** button
 
 <hr>
@@ -89,7 +89,7 @@
 - Brightness: **50**
 - Contrast: **95**
 - Color Saturation: **50**
-- Sharpness: **5**
+- Sharpness: **10**
 - Adaptive Contrast: **Low**
 - Ultra Smooth Motion: **Off**
 - Clear Motion: **Off**
