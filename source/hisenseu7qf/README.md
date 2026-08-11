@@ -36,12 +36,26 @@
 
 <hr>
 
-### PICTURE SETTINGS
+### GLOBAL SETTINGS
 
 #### ENABLE THE ENHANCED FORMAT
 
-1. Reveal the **HDMI & CEC** submenu
-1. Ensure the **Enhanced format** option is selected
+1. Reveal the **hdmi & cec** submenu
+1. Ensure the **enhanced format** option is selected
+
+#### REMOVE AUTO SLEEPING
+
+1. Reveal the **system/timer settings** submenu
+1. Ensure the **auto sleep** option is unselected
+
+#### REMOVE DUMMY NOTIFICATIONS
+
+1. Reveal the **system/advanced settings/notifications** submenu
+1. Ensure **all** option are unselected
+
+<hr>
+
+### PICTURE SETTINGS
 
 #### SETTINGS FOR SDR CONTENTS
 
