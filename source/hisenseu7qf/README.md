@@ -55,17 +55,15 @@
 
 <hr>
 
-### PICTURE SETTINGS
+### SDR CONTENTS SETTINGS
 
-#### SETTINGS FOR SDR CONTENTS
-
-##### PICTURE SETTINGS
+#### PICTURE SETTINGS
 
 - Picture Mode: **Cinema Night**
 - Aspect Size: **Automatic**
 - Game Mode: **Off**
 
-##### PICTURE MODE SETTINGS
+#### PICTURE MODE SETTINGS
 
 - Apply Picture Settings: **All Sources**
 - Backlight: **50**
@@ -81,21 +79,23 @@
 - MPEG Noise Reduction: **Off**
 - Colour Temperature: **Warm1**
 
-##### EXPERT SETTINGS
+#### EXPERT SETTINGS
 
 - Color Gamut: **Native**
 - Gamma Adjustment: **2.2**
 - Viewing Angle: **On**
 
-#### SETTINGS FOR HDR CONTENTS
+<hr>
 
-##### PICTURE SETTINGS
+### HDR CONTENTS SETTINGS
+
+#### PICTURE SETTINGS
 
 - Picture Mode: **HDR Day, HDR10+ Cinema, Dolby Vision Bright**
 - Aspect Size: **Automatic**
 - Game Mode: **Off**
 
-##### PICTURE MODE SETTINGS
+#### PICTURE MODE SETTINGS
 
 - Apply Picture Settings: **All Sources**
 - Backlight: **100**
@@ -111,7 +111,7 @@
 - MPEG Noise Reduction: **Off**
 - Colour Temperature: **Warm1**
 
-##### EXPERT SETTINGS
+#### EXPERT SETTINGS
 
 - Color Gamut: **Native**
 - Gamma Adjustment: **2.2**
