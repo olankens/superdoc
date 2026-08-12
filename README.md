@@ -41,12 +41,13 @@
     <td align="center" width="99999"><a href="source/kodi"><img src="source/kodi/.assets/icon.svg" align="center" width="96"></a></td>
   </tr></tbody>
   <tbody><tr>
+    <td align="center" width="99999"><a href="source/masterduel"><img src="source/masterduel/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/nodedotjs"><img src="source/nodedotjs/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/nvidiashield"><img src="source/nvidiashield/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/python"><img src="source/python/.assets/icon.svg" align="center" width="96"></a></td>
-    <td align="center" width="99999"><a href="source/shell"><img src="source/shell/.assets/icon.svg" align="center" width="96"></a></td>
   </tr></tbody>
   <tbody><tr>
+    <td align="center" width="99999"><a href="source/shell"><img src="source/shell/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/spring"><img src="source/spring/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/windows"><img src="source/windows/.assets/icon.svg" align="center" width="96"></a></td>
   </tr></tbody>
