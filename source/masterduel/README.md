@@ -2,7 +2,7 @@
   <img src=".assets/icon.svg" align="center" width="98">
 </td></tr></table>
 
-<h1 align="center">MASTERDUEL</h1>
+<h1 align="center">MASTER DUEL</h1>
 
 <table>
   <tbody><tr><td align="center" width="99999"><div>
