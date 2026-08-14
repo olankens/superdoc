@@ -34,14 +34,15 @@ version="$(curl -s https://services.gradle.org/versions/current | jq -r .version
 ### CREATE SMALL REST API
 
 ```shell
+project="template"
 curl -s https://start.spring.io/starter.zip \
   -d dependencies=data-jpa,lombok,web \
   -d type=maven-project \
-  -d groupId=com.template \
-  -d artifactId=template \
-  -d packageName=com.template \
+  -d groupId=com."$project" \
+  -d artifactId="$project" \
+  -d packageName=com."$project" \
   -d javaVersion=17 \
-  -o template.zip
-unzip template.zip -d template && rm template.zip
-cd template && rm -rf HELP.md
+  -o starter.zip
+unzip starter.zip -d "$project" && rm starter.zip
+cd "$project" && rm -rf HELP.md
 ```
