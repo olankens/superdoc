@@ -42,5 +42,5 @@ curl -s https://start.spring.io/starter.zip \
   -d packageName=com.template \
   -o template.zip
 unzip template.zip -d template && rm template.zip
-cd template && rm -rf .gitattributes HELP.md .mvn mvnw mvnw.cmd
+cd template && rm -rf .gitattributes HELP.md
 ```
