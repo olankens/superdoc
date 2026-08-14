@@ -35,12 +35,13 @@ version="$(curl -s https://services.gradle.org/versions/current | jq -r .version
 
 ```shell
 curl -s https://start.spring.io/starter.zip \
-  -d dependencies=web,data-jpa,lombok \
+  -d dependencies=data-jpa,lombok,web \
   -d type=maven-project \
   -d groupId=com.template \
   -d artifactId=template \
   -d packageName=com.template \
+  -d javaVersion=17 \
   -o template.zip
 unzip template.zip -d template && rm template.zip
-cd template && rm -rf .gitattributes HELP.md
+cd template && rm -rf HELP.md
 ```
