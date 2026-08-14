@@ -30,3 +30,16 @@ version="$(curl -s "$address" | grep -A2 'id="CurrentMaven"' | grep -oE "$patter
 version="$(curl -s https://services.gradle.org/versions/current | jq -r .version)"
 ./gradlew wrapper --gradle-version "$version"
 ```
+
+### CREATE SMALL REST API
+
+```shell
+curl -s https://start.spring.io/starter.zip \
+  -d dependencies=web,data-jpa,lombok \
+  -d type=maven-project \
+  -d groupId=com.template \
+  -d artifactId=template \
+  -d packageName=com.template \
+  -o template.zip
+unzip template.zip -d template && rm template.zip
+```
