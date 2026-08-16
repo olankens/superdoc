@@ -7,12 +7,12 @@ MAX=4
 
 out="<!-- START_TABLE -->\n<table>\n" && i=0
 for f in "$SRC"/*/.assets/icon.svg; do
-	[ -f "$f" ] || continue
-	folder="$(basename "$(dirname "$(dirname "$f")")")"
-	[ $((i % MAX)) -eq 0 ] && out+="  <tbody><tr>\n"
-	out+="    <td align=\"center\" width=\"99999\"><a href=\"source/$folder\"><img src=\"source/$folder/.assets/icon.svg\" align=\"center\" width=\"96\"></a></td>\n"
-	i=$((i + 1))
-	[ $((i % MAX)) -eq 0 ] && out+="  </tr></tbody>\n"
+  [ -f "$f" ] || continue
+  folder="$(basename "$(dirname "$(dirname "$f")")")"
+  [ $((i % MAX)) -eq 0 ] && out+="  <tbody><tr>\n"
+  out+="    <td align=\"center\" width=\"99999\"><a href=\"source/$folder\"><img src=\"source/$folder/.assets/icon.svg\" align=\"center\" width=\"96\"></a></td>\n"
+  i=$((i + 1))
+  [ $((i % MAX)) -eq 0 ] && out+="  </tr></tbody>\n"
 done
 [ $((i % MAX)) -ne 0 ] && out+="  </tr></tbody>\n"
 out+="</table>\n<!-- CEASE_TABLE -->"
