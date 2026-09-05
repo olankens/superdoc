@@ -17,20 +17,30 @@
 
 ### OPTIMIZE WITH PNGQUANT
 
-```sh
+```shell
 pngquant --force --output icon.png icon.png
 ```
+
+<hr>
 
 ### VERIFY MD5 HASH
 
 #### DEFAULT VERIFICATION
 
-```shß
+```shell
 md5sum -c usb_MICALIDVB6886_U4.md5
 ```
 
 #### WINDOWS (CRLF) VERIFICATION
 
-```sh
+```shell
 tr -d '\r' < usb_MICALIDVB6886_U4.md5 | md5sum -c -
+```
+
+<hr>
+
+### CONVERT GIF TO APNG
+
+```shell
+ffmpeg -i input.gif -plays 0 -f apng output.apng
 ```
