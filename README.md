@@ -34,19 +34,22 @@
     <td align="center" width="99999"><a href="source/ascii"><img src="source/ascii/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/astro"><img src="source/astro/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/calibre"><img src="source/calibre/.assets/icon.svg" align="center" width="96"></a></td>
-    <td align="center" width="99999"><a href="source/claudecode"><img src="source/claudecode/.assets/icon.svg" align="center" width="96"></a></td>
   </tr></tbody>
   <tbody><tr>
+    <td align="center" width="99999"><a href="source/claudecode"><img src="source/claudecode/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/flutter"><img src="source/flutter/.assets/icon.svg" align="center" width="96"></a></td>
+    <td align="center" width="99999"><a href="source/github"><img src="source/github/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/hisenseu7nq"><img src="source/hisenseu7nq/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/hisenseu7qf"><img src="source/hisenseu7qf/.assets/icon.svg" align="center" width="96"></a></td>
+  </tr></tbody>
+  <tbody><tr>
     <td align="center" width="99999"><a href="source/intellijidea"><img src="source/intellijidea/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/kodi"><img src="source/kodi/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/masterduel"><img src="source/masterduel/.assets/icon.svg" align="center" width="96"></a></td>
-  </tr></tbody>
-  <tbody><tr>
     <td align="center" width="99999"><a href="source/nodedotjs"><img src="source/nodedotjs/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/nvidiashield"><img src="source/nvidiashield/.assets/icon.svg" align="center" width="96"></a></td>
+  </tr></tbody>
+  <tbody><tr>
     <td align="center" width="99999"><a href="source/python"><img src="source/python/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/shell"><img src="source/shell/.assets/icon.svg" align="center" width="96"></a></td>
     <td align="center" width="99999"><a href="source/spring"><img src="source/spring/.assets/icon.svg" align="center" width="96"></a></td>
@@ -60,5 +63,5 @@
 ### GENERATE FEATURES TABLE
 
 ```sh
-​bash scripts/handle-readme.sh
+bash scripts/handle-readme.sh
 ```
