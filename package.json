@@ -8,6 +8,11 @@
   "scripts": {
     "prepare": "simple-git-hooks"
   },
+  "cspell": {
+    "words": [
+      "flaretax"
+    ]
+  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
